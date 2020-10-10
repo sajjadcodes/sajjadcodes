@@ -4,6 +4,10 @@
 
 I'm Sajjad Hussain from Pakistan. I really love to solve startups' problems.  And help them to cross the break-even point. 
 
+
+## skills and Experience
+*atom React
+
 Skills: Design/AdobeXD/ HTML5/CSS3/SASS/JavaScript/jQuery/WordPress/PHP
 
 - 🔭 I’m currently working on this page. 
