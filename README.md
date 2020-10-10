@@ -1,6 +1,6 @@
 ### Hi awesome People 👋
 
-### I am Sajjad Hussain 
+I'm Sajjad Hussain from Pakistan. And I am Software Engineer. I really love to solve startups problem. 
 
 
 
