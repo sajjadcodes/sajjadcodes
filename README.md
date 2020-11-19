@@ -4,7 +4,7 @@
 
 I'm Sajjad Hussain from Pakistan. I really love to solve startups' problems.  And help them to cross the break-even point. 
 
-Skills: Design/AdobeXD/ HTML5/CSS3/SASS/JavaScript/jQuery/WordPress/PHP
+Skills: Design/AdobeXD/Figma/ HTML5/CSS3/SASS/jQuery/JavaScript/WordPress/PHP
 
 - 🔭 I’m currently working on Plugin 
 - 🌱 I’m currently learning Laravel 
