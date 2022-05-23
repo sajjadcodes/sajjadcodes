@@ -2,6 +2,11 @@
 <h3 align="center">Passionate Web Developer And Aspirant ML|Data Science</h3>
 <p align="center">
 Email: Sajjadcodes@gmail.com          |   www.sajjadcodes.com       | +3088288227
+</p>
+
+ ---
+ 
+ <p align="center">
  How to reach me: www.iamsajjadhussain.com or https://sajjadcodes.com/  | - LinkedIn :https://www.linkedin.com/in/sajadhussain/ |  WordPress.org : https://profiles.wordpress.org/sajjadhussain2509
 </p>
 
