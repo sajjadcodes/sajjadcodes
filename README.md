@@ -1,5 +1,5 @@
 <h1 align="center"> Sajad Hussain</h1>
-<h3 align="center">Passionate Web Developer And Aspirant ML|Data Science</h3>
+<h3 align="center">Passionate Web Developer And Aspirant ML|Data Sciencist</h3>
 <p align="center">
 Email: Sajjadcodes@gmail.com          |   www.sajjadcodes.com       | +3088288227
 </p>
