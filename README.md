@@ -19,6 +19,8 @@ Email: Sajjadcodes@gmail.com          |   www.sajjadcodes.com       | +308828822
 - PHP
 - JavaScript
 - Java
+---
+
 ### Frameworks
 - Vue.js
 - Angular
