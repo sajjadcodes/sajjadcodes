@@ -25,8 +25,6 @@ Email: Sajjadcodes@gmail.com          |   www.sajjadcodes.com       | +308828822
 - Vue.js
 - Angular
 - Laraval
-- React.js
-
 ---
 
 
