@@ -15,9 +15,11 @@ Email: Sajjadcodes@gmail.com          |   www.sajjadcodes.com       | +308828822
 
 ### Programming Languages
 
-- Python
+- Java
+-  Python
 - PHP
 - JavaScript
+
 ---
 
 ### Frameworks
