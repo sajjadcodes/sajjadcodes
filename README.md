@@ -10,9 +10,6 @@ Email: Sajjadcodes@gmail.com          |   www.sajjadcodes.com       | +308828822
  How to reach me: www.iamsajjadhussain.com or https://sajjadcodes.com/  | - LinkedIn :https://www.linkedin.com/in/sajadhussain/ |  WordPress.org : https://profiles.wordpress.org/sajjadhussain2509
 </p>
 
-![White and Blue Illustration Finance Facebook Cover](https://user-images.githubusercontent.com/12247382/169161863-cd818847-1f2f-4866-bace-d1f7ffb63c08.png)
-
-
 ### Programming Languages
 
 - Java
