@@ -1,5 +1,5 @@
 <h1 align="center"> Sajad Hussain</h1>
-<h3 align="center">Passionate Web Developer And Aspirant ML|Data Sciencist</h3>
+<h3 align="center">Full Stack WordPress Developer And Aspirant ML|Data Sciencist</h3>
 <p align="center">
 Email: Sajjadcodes@gmail.com          |   www.sajjadcodes.com       | +3088288227
 </p>
@@ -16,7 +16,6 @@ Email: Sajjadcodes@gmail.com          |   www.sajjadcodes.com       | +308828822
 - Python
 - PHP
 - JavaScript
-- TypeScript
 
 ---
 
