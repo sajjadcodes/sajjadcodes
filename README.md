@@ -42,7 +42,7 @@ I'm software a software engineer. Who love to solve problems using technologies.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Codwah](github.com/Codawah)  
+- 🔭 I’m currently working on [Codawah](github.com/Codawah)  
   
 
 - 🌱 I’m currently learning Solana ecosystem  
