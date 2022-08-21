@@ -133,6 +133,3 @@ I'm software a software engineer. Who love to solve problems using technologies.
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
