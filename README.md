@@ -39,7 +39,7 @@ I'm software a software engineer. Who love to solve problems using technologies.
 <br/>  
 
 
-## Rapidfire  
+## Currently
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Codawah](github.com/Codawah)  
@@ -47,9 +47,6 @@ I'm software a software engineer. Who love to solve problems using technologies.
 
 - 🌱 I’m currently learning Solana ecosystem  
   
-
-- ❓ Ask me about anything related to WordPress,WooCommerce,MERN related technologies  
-
 
 </td><td valign="top" width="50%">
 
