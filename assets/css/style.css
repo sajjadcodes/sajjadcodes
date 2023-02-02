@@ -8,3 +8,13 @@
 html {
     font-size: 62.5%;
 }
+body{
+    background-color: cornflowerblue;
+    
+}
+p {
+    font-size: 1.8rem;
+}
+h1{
+    font-size: 4.8rem;
+}
