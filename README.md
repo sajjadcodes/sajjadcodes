@@ -1,6 +1,5 @@
 <img src="https://github.com/sajjadcodes/sajjadcodes/blob/main/greetings.gif?raw=true" align="left" style="width: 100%" />  
   
-
 # <div align="center">Hey 👋, I'm Sajad Hussain</div>  
   
 
