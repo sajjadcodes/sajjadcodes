@@ -1,7 +1,6 @@
 <img src="https://github.com/sajjadcodes/sajjadcodes/blob/main/greetings.gif?raw=true" align="left" style="width: 100%" />  
-
 # <div align="center">Hey 👋, I'm Sajad Hussain</div>  
-  
+
 <a href="https://github.com/sajjadcodes" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
