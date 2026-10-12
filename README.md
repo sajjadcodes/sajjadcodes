@@ -80,7 +80,7 @@ Web3
 
 📌 Featured Project
 
-OrgFlow
+BalootixOrg
 
 A SaaS platform for managing organizational structures and company hierarchies.
 
