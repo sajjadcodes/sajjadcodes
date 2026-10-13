@@ -80,7 +80,7 @@ Web3
 
 📌 Featured Project
 
-BalootixOrg
+Baloot Org
 
 A SaaS platform for managing organizational structures and company hierarchies.
 
